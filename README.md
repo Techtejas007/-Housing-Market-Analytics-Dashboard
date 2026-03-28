@@ -97,4 +97,4 @@ Offer to SQM Ratio = DIVIDE([Average Offer Price], [Average SQM])
 ## 👤 Author
 
 **Tejas Bafna** — Data Analyst | Power BI Developer  
-📧 tejasbafna311@gmail.com · [LinkedIn](https://linkedin.com) · 📍 Nashik, India
+📧 tejasbafna311@gmail.com · [LinkedIn](www.linkedin.com/in/tejas-bafna) · 
